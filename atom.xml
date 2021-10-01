@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://66bili.github.io</id>
     <title>安逸</title>
-    <updated>2021-10-01T01:13:26.505Z</updated>
+    <updated>2021-10-01T01:16:35.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://66bili.github.io"/>
     <link rel="self" href="https://66bili.github.io/atom.xml"/>
@@ -16,8 +16,7 @@
         <link href="https://66bili.github.io/post/2021101/">
         </link>
         <updated>2021-10-01T00:07:41.000Z</updated>
-        <content type="html"><![CDATA[<p>祝国庆快乐!<br>
-<img src="https://pic.imgdb.cn/item/61565e502ab3f51d91b40956.png" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p><img src="https://pic.imgdb.cn/item/61565e502ab3f51d91b40956.png" alt="" loading="lazy"><br>
 <img src="https://pic.imgdb.cn/item/6156603a2ab3f51d91b5f1fc.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
