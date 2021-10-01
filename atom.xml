@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://66bili.github.io</id>
     <title>安逸</title>
-    <updated>2021-10-01T12:14:06.375Z</updated>
+    <updated>2021-10-01T12:18:18.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://66bili.github.io"/>
     <link rel="self" href="https://66bili.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://66bili.github.io/images/avatar.png</logo>
     <icon>https://66bili.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 安逸</rights>
+    <entry>
+        <title type="html"><![CDATA[21.10.1]]></title>
+        <id>https://66bili.github.io/post/21101/</id>
+        <link href="https://66bili.github.io/post/21101/">
+        </link>
+        <updated>2021-10-01T12:17:32.000Z</updated>
+        <content type="html"><![CDATA[<p>[img]https://pic.imgdb.cn/item/6156fa552ab3f51d91952f4f.png[/img]</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国庆快乐 2021.10.1]]></title>
         <id>https://66bili.github.io/post/101国庆/</id>
@@ -28,24 +37,6 @@
 <img src="https://pic.imgdb.cn/item/6156beb12ab3f51d913ff6c9.png" alt="" loading="lazy"><br>
 <img src="https://pic.imgdb.cn/item/6156f6982ab3f51d918fe80f.png" alt="" loading="lazy"><br>
 <img src="https://pic.imgdb.cn/item/6156e2352ab3f51d9174bb53.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国庆快乐 2021.10.1]]></title>
-        <id>https://66bili.github.io/post/2021国庆/</id>
-        <link href="https://66bili.github.io/post/2021国庆/">
-        </link>
-        <updated>2021-10-01T00:07:41.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://pic.imgdb.cn/item/61565e502ab3f51d91b40956.png" alt="" loading="lazy"><br>
-<img src="https://pic.imgdb.cn/item/6156603a2ab3f51d91b5f1fc.png" alt="" loading="lazy"><br>
-<img src="https://pic.imgdb.cn/item/615666b12ab3f51d91bd1832.png" alt="" loading="lazy"><br>
-<img src="https://pic.imgdb.cn/item/615666962ab3f51d91bcf96a.png" alt="" loading="lazy"><br>
-<img src="https://pic.imgdb.cn/item/615666912ab3f51d91bcf366.png" alt="" loading="lazy"><br>
-<img src="https://pic.imgdb.cn/item/6156be342ab3f51d913f1fc6.png" alt="" loading="lazy"><br>
-<img src="https://pic.imgdb.cn/item/6156be3b2ab3f51d913f2a85.png" alt="" loading="lazy"><br>
-<img src="https://pic.imgdb.cn/item/6156be752ab3f51d913f8cd8.png" alt="" loading="lazy"><br>
-<img src="https://pic.imgdb.cn/item/6156bea92ab3f51d913fe990.png" alt="" loading="lazy"><br>
-<img src="https://pic.imgdb.cn/item/6156beb12ab3f51d913ff6c9.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
