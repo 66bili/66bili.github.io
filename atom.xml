@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://66bili.github.io</id>
     <title>安逸</title>
-    <updated>2021-10-03T10:02:31.854Z</updated>
+    <updated>2021-10-03T10:06:08.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://66bili.github.io"/>
     <link rel="self" href="https://66bili.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://66bili.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 安逸</rights>
     <entry>
-        <title type="html"><![CDATA[工具网站21.10.3]]></title>
+        <title type="html"><![CDATA[# 工具网站 1]]></title>
         <id>https://66bili.github.io/post/gong-ju-wang-zhan-21103/</id>
         <link href="https://66bili.github.io/post/gong-ju-wang-zhan-21103/">
         </link>
