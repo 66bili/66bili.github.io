@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://66bili.github.io</id>
     <title>安逸</title>
-    <updated>2021-10-01T12:21:24.926Z</updated>
+    <updated>2021-10-03T10:00:51.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://66bili.github.io"/>
     <link rel="self" href="https://66bili.github.io/atom.xml"/>
@@ -11,12 +11,16 @@
     <icon>https://66bili.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 安逸</rights>
     <entry>
-        <title type="html"><![CDATA[21.10.1]]></title>
-        <id>https://66bili.github.io/post/21101/</id>
-        <link href="https://66bili.github.io/post/21101/">
+        <title type="html"><![CDATA[工具网站21.10.3]]></title>
+        <id>https://66bili.github.io/post/gong-ju-wang-zhan-21103/</id>
+        <link href="https://66bili.github.io/post/gong-ju-wang-zhan-21103/">
         </link>
-        <updated>2021-10-01T12:17:32.000Z</updated>
-        <content type="html"><![CDATA[<p>[img]https://pic.imgdb.cn/item/6156fa552ab3f51d91952f4f.png[/img]</p>
+        <updated>2021-10-03T09:58:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>15.ai</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>15.ai</p>
+<!-- more -->
+<p>https://15.ai/</p>
 ]]></content>
     </entry>
     <entry>
@@ -37,33 +41,6 @@
 <img src="https://pic.imgdb.cn/item/6156beb12ab3f51d913ff6c9.png" alt="" loading="lazy"><br>
 <img src="https://pic.imgdb.cn/item/6156f6982ab3f51d918fe80f.png" alt="" loading="lazy"><br>
 <img src="https://pic.imgdb.cn/item/6156e2352ab3f51d9174bb53.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-9.30]]></title>
-        <id>https://66bili.github.io/post/2021-930/</id>
-        <link href="https://66bili.github.io/post/2021-930/">
-        </link>
-        <updated>2021-09-30T11:25:53.000Z</updated>
-        <content type="html"><![CDATA[<p>合集1：https://www.aliyundrive.com/s/QnQQDaToNG4</p>
-<p>合集2：https://www.aliyundrive.com/s/jzECxhBqPoe</p>
-<p>合集3：https://www.aliyundrive.com/s/dDMHAhbajoT</p>
-<p>合集4：https://www.aliyundrive.com/s/VWxnbbVAxp7</p>
-<p>合集5：https://www.aliyundrive.com/s/Q5h5n7Ku1Av</p>
-<p>合集6：https://www.aliyundrive.com/s/SwnVn4NiNnx</p>
-<p>合集7：https://www.aliyundrive.com/s/kcfrj9YvVjK</p>
-<p>合集8：https://www.aliyundrive.com/s/GqozSaN3xF3</p>
-<p>合集9：https://www.aliyundrive.com/s/JEDzcuSdREy</p>
-<p>合集10：https://www.aliyundrive.com/s/6qD1FGDNYfy</p>
-<p>合集11：https://www.aliyundrive.com/s/k9rfrQw5Ngy</p>
-<p>合集12：https://www.aliyundrive.com/s/vRuNXbvBPpW</p>
-<p>合集13：https://www.aliyundrive.com/s/H7g5gTKsBCk</p>
-<p>合集14：https://www.aliyundrive.com/s/r5jNkhDJ3TH</p>
-<p>合集15：https://www.aliyundrive.com/s/Bp5QH7a6u18</p>
-<p>合集16：https://www.aliyundrive.com/s/8dHp4HqRQzg</p>
-<p>合集17：https://www.aliyundrive.com/s/3uZ3R1f3BTg</p>
-<p>合集18：https://www.aliyundrive.com/s/j9rkPBr5N2N</p>
-<p>合集19：https://www.aliyundrive.com/s/92gwmFDDtps</p>
 ]]></content>
     </entry>
 </feed>
