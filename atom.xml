@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://66bili.github.io</id>
     <title>安逸</title>
-    <updated>2022-01-08T07:40:46.608Z</updated>
+    <updated>2022-01-21T12:43:12.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://66bili.github.io"/>
     <link rel="self" href="https://66bili.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://66bili.github.io/images/avatar.png</logo>
     <icon>https://66bili.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 安逸</rights>
+    <entry>
+        <title type="html"><![CDATA[实现看书自由——第一弹]]></title>
+        <id>https://66bili.github.io/post/shi-xian-kan-shu-zi-you-di-yi-dan/</id>
+        <link href="https://66bili.github.io/post/shi-xian-kan-shu-zi-you-di-yi-dan/">
+        </link>
+        <updated>2022-01-21T12:11:04.000Z</updated>
+        <content type="html"><![CDATA[<p>哈喽喽~我是安逸<br>
+2022年的寒假已经到来，这大好的时光可不能浪费<br>
+那么，来看看书吧！<br>
+首先推荐一个正版书籍软件——微信读书<br>
+唔，不会有人不知道微信除了微信之外还做了一个叫微信读书的软件吧？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[虎年]]></title>
         <id>https://66bili.github.io/post/20220101/</id>
